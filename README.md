@@ -30,6 +30,11 @@
 
 # 4 **Grabación de audio mediante el grabador provisto por Android.**
 
+<img src="../master/4. Reproduccion, pausa, continuacion y detencion de un archivo de audio/1.png" alt="My cool logo"/>
+<img src="../master/4. Reproduccion, pausa, continuacion y detencion de un archivo de audio/2.png" alt="My cool logo"/>
+<img src="../master/4. Reproduccion, pausa, continuacion y detencion de un archivo de audio/3.png" alt="My cool logo"/>
+
+
 # 5 **Evento touch: juego del buscaminas.**
 
 <img src="../master/5. Evento toch - Juego del Buscaminas/1.png" alt="My cool logo"/>
