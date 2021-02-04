@@ -21,9 +21,19 @@
 
 # 2 **Almacenamiento de datos en un archivo de texto en la memoria interna.**
 
+<img src="../master/2. Almacenamiento de Datos en un archivo de texto en la Memoria Interna/1.png" alt="My cool logo"/>
+<img src="../master/2. Almacenamiento de Datos en un archivo de texto en la Memoria Interna/2.png" alt="My cool logo"/>
+<img src="../master/2. Almacenamiento de Datos en un archivo de texto en la Memoria Interna/3.png" alt="My cool logo"/>
+<img src="../master/2. Almacenamiento de Datos en un archivo de texto en la Memoria Interna/4.png" alt="My cool logo"/>
+
 # 3 **Reproducción, pausa, continuación y detención de un archivo de audio.**
 
 # 4 **Grabación de audio mediante el grabador provisto por Android.**
+
+<img src="../master/4. Reproduccion, pausa, continuacion y detencion de un archivo de audio/1.png" alt="My cool logo"/>
+<img src="../master/4. Reproduccion, pausa, continuacion y detencion de un archivo de audio/2.png" alt="My cool logo"/>
+<img src="../master/4. Reproduccion, pausa, continuacion y detencion de un archivo de audio/3.png" alt="My cool logo"/>
+
 
 # 5 **Evento touch: juego del buscaminas.**
 
