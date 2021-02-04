@@ -18,6 +18,7 @@
 <img src="../master/1. Almacenamiento en una Base de Datos SQLite/1.png" alt="My cool logo"/>
 <img src="../master/1. Almacenamiento en una Base de Datos SQLite/2.png" alt="My cool logo"/>
 <img src="../master/1. Almacenamiento en una Base de Datos SQLite/3.png" alt="My cool logo"/>
+
 * **Almacenamiento de datos en un archivo de texto en la memoria interna.**
 * **Reproducción, pausa, continuación y detención de un archivo de audio.**
 * **Grabación de audio mediante el grabador provisto por Android.**
