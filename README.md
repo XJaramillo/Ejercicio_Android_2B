@@ -10,7 +10,16 @@
 * **Mauricio Rodriguez**
 * **Charlie Lopez**
 
-Inonic Chat desarrollado con Ionic Framework, la aplicacion APK ya instalada en un dispositvo permitira crear y borrar mensajes que conjutamente se iran guardando en Firebase de Google, los registros de los chats de los usuarios se iran guardando constantemente.
+
+# Del archivo "Curso Android Studio.pdf" realizar los ejercicios:
+
+Almacenamiento en una base de datos SQLite
+Almacenamiento de datos en un archivo de texto en la memoria interna
+Reproducción, pausa, continuación y detención de un archivo de audio.
+Grabación de audio mediante el grabador provisto por Android
+Evento touch: juego del buscaminas
+
+
 
 
 * Con funcionalidad
