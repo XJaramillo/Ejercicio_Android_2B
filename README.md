@@ -24,9 +24,9 @@
 * **Grabación de audio mediante el grabador provisto por Android.**
 # * **Evento touch: juego del buscaminas.**
 
-<img src="../master/2. Almacenamiento en una Base de Datos SQLite/1.png" alt="My cool logo"/>
-<img src="../master/2. Almacenamiento en una Base de Datos SQLite/2.png" alt="My cool logo"/>
-<img src="../master/2. Almacenamiento en una Base de Datos SQLite/3.png" alt="My cool logo"/>
+<img src="../master/5. Evento toch - Juego del Buscaminas/1.png" alt="My cool logo"/>
+<img src="../master/5. Evento toch - Juego del Buscaminas/2.png" alt="My cool logo"/>
+<img src="../master/5. Evento toch - Juego del Buscaminas/3.png" alt="My cool logo"/>
 
 
 
