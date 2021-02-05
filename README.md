@@ -39,9 +39,9 @@
 
 # 5 **Evento touch: juego del buscaminas.**
 
-<img src="../master/5. Evento toch - Juego del Buscaminas/1.png" alt="My cool logo"/>
-<img src="../master/5. Evento toch - Juego del Buscaminas/2.png" alt="My cool logo"/>
-<img src="../master/5. Evento toch - Juego del Buscaminas/3.png" alt="My cool logo"/>
+<img src="../master/5. Evento touch - Juego del Buscaminas/1.png" alt="My cool logo"/>
+<img src="../master/5. Evento touch - Juego del Buscaminas/2.png" alt="My cool logo"/>
+<img src="../master/5. Evento touch - Juego del Buscaminas/3.png" alt="My cool logo"/>
 
 
 
