@@ -27,9 +27,9 @@
 
 # 3 **Grabación de audio mediante el grabador provisto por Android.**
 
-<img src="../master/2. Grabación de audio mediante el grabador provisto por Android/1.png" alt="My cool logo"/>
-<img src="../master/2. Grabación de audio mediante el grabador provisto por Android/2.png" alt="My cool logo"/>
-<img src="../master/2. Grabación de audio mediante el grabador provisto por Android/3.png" alt="My cool logo"/>
+<img src="../master/3. Grabación de audio mediante el grabador provisto por Andorid/1.png" alt="My cool logo"/>
+<img src="../master/3. Grabación de audio mediante el grabador provisto por Android/2.png" alt="My cool logo"/>
+<img src="../master/3. Grabación de audio mediante el grabador provisto por Android/3.png" alt="My cool logo"/>
 
 # 4 **Reproducción, pausa, continuación y detención de un archivo de audio.**
 
